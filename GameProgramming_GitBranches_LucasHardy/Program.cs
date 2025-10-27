@@ -10,7 +10,7 @@ namespace GameProgramming_GitBranches_LucasHardy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Evil World!");
+            Console.WriteLine("Hello Not Evil World!");
         }
     }
 }
