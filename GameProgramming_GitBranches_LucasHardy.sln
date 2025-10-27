@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProgramming_GitBranches_LucasHardy", "GameProgramming_GitBranches_LucasHardy\GameProgramming_GitBranches_LucasHardy.csproj", "{CDEEDF03-7049-420E-921D-1886C6B56977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEEDF03-7049-420E-921D-1886C6B56977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEEDF03-7049-420E-921D-1886C6B56977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEEDF03-7049-420E-921D-1886C6B56977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEEDF03-7049-420E-921D-1886C6B56977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201AAD36-5C27-4B6D-8C75-F2F4B6541A39}
+	EndGlobalSection
+EndGlobal
